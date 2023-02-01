@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navigos13
 - 👀 I’m interested in ... honing my coding skills
-- 🌱 I’m currently learning ... how to code in python
+- 🌱 I’m currently learning ... data structures in python
 - 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ...on my email-navrai13772@gmail.com
 
